@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "verHead": "1.0",
+  "verDate": "20240815",
+
+
+  "minVer": "latest",
+  "creation": "2",
+  "allowStart": "true",
+  "CanUpdate": "true",
+  "DebugVer": "0.0.0",
+
+  "md5": "2e41727d5e868073b2b434e6549dac8d",
+  "announcement": {
+    "SChinese": "当前无公告",
+    "English": "Currently no announcements"
+  },
+
+  "url": {
+    "githubUrl": "https://github.com/XtremeWave/FracturedTruth/",
+    "giteeUrl": "https://gitee.com/XtremeWave/FracturedTruth/",
+    "objectstorageUrl": "https://cn-sy1.rains3.com/xtremewavecloud/cloudreve/5/FracturedTruth/"
+  }
+}
